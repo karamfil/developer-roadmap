@@ -7,7 +7,7 @@ import rehypeExternalLinks from 'rehype-external-links';
 import { serializeSitemap, shouldIndexPage } from './sitemap.mjs';
 
 export default defineConfig({
-  site: 'https://roadmap.sh',
+  site: 'https://karamfil.github.io/developer-roadmap/',
   markdown: {
     shikiConfig: {
       theme: 'dracula',
